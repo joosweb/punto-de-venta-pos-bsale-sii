@@ -1,7 +1,7 @@
 # Bienvenidos a POS-OSAN!
 
-OsanPOS es un sistema de control de inventario + punto venta, con una interfaz amigable
-y dinamica, es una web SPA, lo cual una vez cargada no hay constantes cargas de pagina si no mas bien parece una APP, con esto los tiempos de carga son muy superiores a otros lenguajes web, si no prueba la demo publicada mas abajo en este post.
+Hola, este software esta pensado para aquellos empresarios que tendrán que pasar a emitir documentos electrónicos desde el manual, ya que la mayoría de las empresas que que ofrecen facturación con sistemas internos, y dando pie a trabajar con este en la version mas economica utilizando solo su API, con esto tendrás tu el control completo de tu sistema, no descartando mejoras personalizadas.  
+Este programa se encargara de todo tu negocio (clientes, proveedores, inventario con compras y ventas sincronizados, un completo sistema de alertas de stock bajo configurable,
 
 Por el momento esta habilitada la empresa [BSALE](https://www.bsale.cl/sheet/api-factura-electronica), se espera proximamente sincronizar la facturacion con LIBREDTE, ya que sabemos es un proyecto el cual utiliza una api para emitir documentos y que existe una version comunidad la cual puede instalar cualquier persona y utilizar su antes mencionada API.
 
@@ -38,7 +38,7 @@ Vista en el telefono
 
 ## PUNTO DE VENTA
 
-El sistema posee un punto de venta retail multiuso, donde se podra hacer uso de un scanner con pistola de codigo de barras para las ventas, esto con un previo ingreso de  categorias e items necesarios para poder vender posteriormente,
+El sistema posee un punto de venta retail multiuso, donde se podran scanner con pistola de codigo de barras, ya que a su vez permite el ingreso de categorias e items para su futura venta en este POS retail,
 esto logra poder procesar y genera boleta, factura, cotizacion de una manera muy simple.
 
 ![enter image description here](https://github.com/joosweb/punto-de-venta-pos-bsale-libredte/blob/master/screenshots/Captura%20de%20Pantalla%202020-05-16%20a%20la%28s%29%2000.24.03.png?raw=true)
@@ -73,6 +73,10 @@ Ventajas de usar este sistema y no pagar un poco mas con BSALE mismo.
 ## Documentos tributarios
 
 Puedes imprimir tanto en hoja de carta o papel continuo, ya que es configurable desde el panel de administracion.
+
+![enter image description here](https://github.com/joosweb/punto-de-venta-pos-bsale-libredte/blob/master/screenshots/Captura%20de%20Pantalla%202020-05-16%20a%20la%28s%29%2000.24.15.png?raw=true)
+
+![enter image description here](https://github.com/joosweb/punto-de-venta-pos-bsale-libredte/blob/master/screenshots/Captura%20de%20Pantalla%202020-05-16%20a%20la%28s%29%2000.24.21.png?raw=true)
 
 ![enter image description here](https://github.com/joosweb/punto-de-venta-pos-bsale-libredte/blob/master/screenshots/documentos%20tributarios/Captura%20de%20Pantalla%202020-05-16%20a%20la%28s%29%2003.29.52.png?raw=true)
 
