@@ -38,7 +38,7 @@ Vista en el telefono
 
 ## PUNTO DE VENTA
 
-El sistema posee un punto de venta retail multiuso, donde se podra hacer uso de un scanner con pistola de codigo de barras para las ventas, esto con un previo ingreso de  categorias e items para necesarios para poder vender posteriormente,
+El sistema posee un punto de venta retail multiuso, donde se podra hacer uso de un scanner con pistola de codigo de barras para las ventas, esto con un previo ingreso de  categorias e items necesarios para poder vender posteriormente,
 esto logra poder procesar y genera boleta, factura, cotizacion de una manera muy simple.
 
 ![enter image description here](https://github.com/joosweb/punto-de-venta-pos-bsale-libredte/blob/master/screenshots/Captura%20de%20Pantalla%202020-05-16%20a%20la%28s%29%2000.24.03.png?raw=true)
