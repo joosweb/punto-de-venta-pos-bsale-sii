@@ -3,7 +3,7 @@
 Hola, este software esta pensado para aquellos empresarios que tendrán que pasar a emitir documentos electrónicos desde el manual, ya que la mayoría de las empresas que que ofrecen facturación con sistemas internos, y dando pie a trabajar con este en la version mas economica utilizando solo su API, con esto tendrás tu el control completo de tu sistema, no descartando mejoras personalizadas.  
 Este programa se encargara de todo tu negocio (clientes, proveedores, inventario con compras y ventas sincronizados, un completo sistema de alertas de stock bajo configurable,
 
-Por el momento esta habilitada la empresa [BSALE](https://www.bsale.cl/sheet/api-factura-electronica), se espera proximamente sincronizar la facturacion con LIBREDTE, ya que sabemos es un proyecto el cual utiliza una api para emitir documentos y que existe una version comunidad la cual puede instalar cualquier persona y utilizar su antes mencionada API.
+Por el momento esta habilitada la empresa [BSALE](https://www.bsale.cl/sheet/api-factura-electronica), también es posible usar la APP del sii gratuita ya que al momento de ingresar una venta solo se debe ingresar el folio que entrega la app y guardar.
 
 
 ## Lenguajes de programacion
@@ -14,7 +14,6 @@ El sistema esta desarrollado con estas distintas tecnologias
  2. Laravel
  3. Html
  4. Vue.JS (vue-router, vuex)
- 5. $Jquery muy poco (Se pretende precindir de el pronto).
 
 ## Notificaciones
 
@@ -97,7 +96,7 @@ El tipo de codigo codigo usado es el CODE-129
 
 Revisa la demo aqui: [POS-OSAN](http://pos.osan.cl/)
 
-usuario: demo@osan.cl
+usuario: demo
 contraseña: demo
 
 Los datos de la demo se eliminan perdiodicamente por lo cual lo que haga en ella no quedará almecenado por mucho tiempo, es solo una muestra del sistema.
