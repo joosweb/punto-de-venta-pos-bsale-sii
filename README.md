@@ -1,9 +1,11 @@
 # Bienvenidos a POS-OSAN!
 
-Hola, este software esta pensado para aquellos empresarios que tendrán que pasar a emitir documentos electrónicos desde el manual, ya que la mayoría de las empresas que que ofrecen facturación con sistemas internos, y dando pie a trabajar con este en la version mas economica utilizando solo su API, con esto tendrás tu el control completo de tu sistema, no descartando mejoras personalizadas.  
+Este software esta pensado para aquellos comerciantes que tendrán que emitir documentos electrónicos desde 2021, la mayoria de las empresas que ofrecen facturación con sistemas internos o son muy caros o simplemente la interfaz es poco amigable, es por eso que este programa intuitivo solucionara este problema
+entregando una completa forma de llevar tu inventario y sin pagos mensuales.
+
 Este programa se encargara de todo tu negocio (clientes, proveedores, inventario con compras y ventas sincronizados, un completo sistema de alertas de stock bajo configurable,
 
-Por el momento esta habilitada la empresa [BSALE](https://www.bsale.cl/sheet/api-factura-electronica), también es posible usar la APP del sii gratuita ya que al momento de ingresar una venta solo se debe ingresar el folio que entrega la app y guardar.
+Por el momento esta habilitada la empresa [BSALE](https://www.bsale.cl/sheet/api-factura-electronica), también es posible usar la APP del sii gratuita ya que al momento de ingresar una venta solo se debe ingresar el folio y el tipo de documento y procesar, es decir se puede trabajar con BSALE o simplemente con ninguna e ingresar los folios que entrega la app manualmente.
 
 
 ## Lenguajes de programacion
